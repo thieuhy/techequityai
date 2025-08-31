@@ -1,16 +1,17 @@
 Robotics Companies Data Visualization
 
-This project was developed during my internship at TechEquity AI. The goal was to break down the robotics industry landscape by analyzing and visualizing company data from Crunchbase.
+This project was developed during my internship at TechEquity Ai. The goal was to break down the robotics industry landscape by analyzing and visualizing company data from Crunchbase.
 
 📌 Project Overview
 
-The robotics industry is rapidly evolving, and understanding its structure requires breaking down large datasets into meaningful insights. This project focuses on:
+- The robotics industry is rapidly evolving, and understanding its structure requires breaking down large datasets into meaningful insights. This project focuses on:
 
-Exploring robotics-related companies listed on Crunchbase.
+- Exploring robotics-related companies listed on Crunchbase.
 
-Creating data visualizations to highlight trends across industries, funding, locations, and company types.
+- Creating data visualizations to highlight trends across industries, funding, locations, and company types.
 
-Identifying patterns that can help explain how robotics companies are distributed and categorized.
+- Identifying patterns that can help explain how robotics companies are distributed and categorized.
+
 
 🔎 Key Features
 
@@ -22,14 +23,15 @@ Identifying patterns that can help explain how robotics companies are distribute
 
 🔍 Exploratory analysis of different data types (e.g., categorical, numerical, time-based).
 
+
 🛠️ Tech Stack
 
-Python
+- Python
 
-Google Collab 
+- Google Collab 
 
-Pandas & NumPy for data manipulation
+- Pandas & NumPy for data manipulation
 
-Matplotlib & Seaborn / Plotly for visualization
+- Matplotlib & Seaborn / Plotly for visualization
 
-Crunchbase dataset (exported for analysis)
+- Crunchbase dataset (exported for analysis)
